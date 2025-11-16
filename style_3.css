@@ -1,7 +1,6 @@
 #color{
     position: absolute;
-} 
-                                        
+}                                         
 #section .container{
     width: 100%;
     height: 100%;
@@ -9,9 +8,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}                           
-/*               
-#section .container .video_box{
+}                                         
+/* #section .container .pick_box{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -19,26 +17,15 @@
     width: 450px;
     height: 100%;
     position: relative;
-}                                         
-#section .container .video_box video{
+}   
+                                      
+#section .container .pick_box img{
     height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;padding-top: 30px;
 }                                          */
 
-
-#color{
-    position: absolute;
-}                                         
-#section .container{
-    width: 450px;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}                                         
 .pick_box{
     display: flex;
     flex-direction: column;
@@ -56,4 +43,4 @@
     justify-content: center;
     align-items: center;
     padding-top: 40px;
-}                                         
+}         
