@@ -9,7 +9,7 @@
     justify-content: center;
     align-items: center;
 }                                         
-#section .container .pick_box{
+/* #section .container .pick_box{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -24,4 +24,23 @@
     display: flex;
     justify-content: center;
     align-items: center;padding-top: 30px;
-}                                         
+}                                          */
+
+.pick_box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height:100%;
+    position: relative;
+}   
+                                      
+.pick_box img{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}         
