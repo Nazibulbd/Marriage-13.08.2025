@@ -8,6 +8,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding-top: 50px;
 }                                         
 
 .pick_box{
@@ -18,15 +19,16 @@
     width: 70%;
     height:100%;
     position: relative;
+    border: 10px solid #fff;;
 }   
                                       
 .pick_box img{
-    height: 400px;
+    height: 100%;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 40px;
+    
 }                                         
 /* 
 .pick_box{
